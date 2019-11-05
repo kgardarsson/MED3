@@ -1,0 +1,2 @@
+ofxFiducialFinder
+ofxOpenCv
